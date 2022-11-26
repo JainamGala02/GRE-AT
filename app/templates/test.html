@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="../static/css/teststyle.css">
+    <link rel="stylesheet" href="static/css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="static/css/About-1.css" media="screen">
+  </head>
+  <body>
+  <header class="u-clearfix u-header u-header" id="sec-d01b"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-text u-text-palette-5-dark-2 u-text-1">
+          <span style="font-size: 3rem; padding-left: 3rem; ">GRE-AT</span>
+          <span style="font-size: 4rem;"></span>
+        </p>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;" wfd-invisible="true">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About-1.html" style="padding: 10px 20px;">About 1</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse" wfd-invisible="true">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About-1.html">About 1</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70" wfd-invisible="true"></div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <div class="container center">
+  <aside class="">
+    <nav class="ranking">
+      <h2 class="ranking-title" style="text-align: center; ">World Ranking of Universities as of 2022</h2>
+        <h2 class="ranking-title" style="text-align: center; "><a href="{{ url_for('visualize') }}">Click here to view prediction</a></h2>
+      <ul class="ranking-list">
+        {% for n in range(0, 354) %}
+        <li class="ranking-item">
+          <a href="#" class="ranking-card">
+            <figure class="ranking-image">
+<!--              <img src="https://source.unsplash.com/_CycqFNTaO8/150x200" alt="" class="ranking-thumbnail" />-->
+              <span class="ranking-badge">{{ uni_rank[n] }}</span>
+            </figure>
+            <div class="ranking-card-info">
+              <div class="ranking-shop-name">{{ uni_location[n] }}</div>
+              <p class="ranking-description">
+                {{ uni_srs[n] }}
+              </p>
+            </div>
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </aside>
+</div>
+	<script src="index.js"></script>
+  </body>
+</html>

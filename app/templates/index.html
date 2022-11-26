@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="home-div">
+        <img src="{{ url_for('static', filename='images/quiz-home.jpg') }}" class="home-img">
+        <div class="info-div">
+            {% if g.user %}
+                <h1>Welcome {{ g.user.username.capitalize() }}, </h1>
+            {% else %}
+                <h1>Sign In, Guest </h1>
+            {% endif %}
+            <h4> Explore the GRE Mock Test &
+                Find the Best Universities across the Globe!
+            </h4>
+            <a href="{{ url_for('question', id=1, new=0)}}">Take the test</a>
+        </div>
+    </div>
+{% endblock %}

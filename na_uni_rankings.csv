@@ -1,0 +1,355 @@
+﻿Rank,institution,location code,location
+1,Massachusetts Institute of Technology (MIT) ,US,United States
+2,University of Cambridge,UK,United Kingdom
+3,Stanford University,US,United States
+4,University of Oxford,UK,United Kingdom
+5,Harvard University,US,United States
+6,California Institute of Technology (Caltech),US,United States
+7,Imperial College London,UK,United Kingdom
+8,UCL,UK,United Kingdom
+10,University of Chicago,US,United States
+13,University of Pennsylvania,US,United States
+15,The University of Edinburgh,UK,United Kingdom
+17,Princeton University,US,United States
+18,Yale University,US,United States
+20,Cornell University,US,United States
+22,Columbia University,US,United States
+24,Johns Hopkins University,US,United States
+25,University of Michigan-Ann Arbor,US,United States
+27,"University of California, Berkeley (UCB)",US,United States
+28,The University of Manchester,UK,United Kingdom
+31,McGill University,CA,Canada
+32,Northwestern University,US,United States
+35,University of Toronto,CA,Canada
+37,King's College London,UK,United Kingdom
+39,New York University (NYU),US,United States
+44,"University of California, Los Angeles (UCLA)",US,United States
+47,University of British Columbia,CA,Canada
+50,Duke University,US,United States
+52,Carnegie Mellon University,US,United States
+53,"University of California, San Diego (UCSD)",US,United States
+56,The London School of Economics and Political Science (LSE),UK,United Kingdom
+62,University of Bristol,UK,United Kingdom
+63,Brown University,US,United States
+64,The University of Warwick,UK,United Kingdom
+72,University of Texas at Austin,US,United States
+78,University of Southampton,UK,United Kingdom
+80,University of Washington,US,United States
+81,University of Glasgow,UK,United Kingdom
+83,University of Wisconsin-Madison,US,United States
+85,University of Illinois at Urbana-Champaign,US,United States
+86,University of Leeds,UK,United Kingdom
+88,Georgia Institute of Technology,US,United States
+91,University of Birmingham,UK,United Kingdom
+92,Durham University,UK,United Kingdom
+93,Pennsylvania State University,US,United States
+96,The University of Sheffield,UK,United Kingdom
+97,University of St Andrews,UK,United Kingdom
+100,Rice University,US,United States
+102,"University of California, Davis",US,United States
+103,"University of North Carolina, Chapel Hill",US,United States
+105,Universidad Nacional Autónoma de México (UNAM),MX,Mexico
+108,Boston University,US,United States
+110,University of Alberta,CA,Canada
+114,University of Nottingham,UK,United Kingdom
+117,Université de Montréal ,CA,Canada
+119,Washington University in St. Louis,US,United States
+122,Newcastle University,UK,United Kingdom
+126,Queen Mary University of London,UK,United Kingdom
+129,Purdue University,US,United States
+134,University of Southern California,US,United States
+140,The Ohio State University,US,United States
+146,Lancaster University,UK,United Kingdom
+148,University of Rochester,US,United States
+149,"University of California, Santa Barbara (UCSB)",US,United States
+152,McMaster University,CA,Canada
+154,University of Waterloo,CA,Canada
+155,Emory University,US,United States
+159,Michigan State University,US,United States
+162,University of York,UK,United Kingdom
+163,The University of Exeter,UK,United Kingdom
+164,Texas A&M University,US,United States
+165,"University of Maryland, College Park",US,United States
+166,Cardiff University,UK,United Kingdom
+170,Tecnológico de Monterrey,MX,Mexico
+173,Western University,CA,Canada
+176,Case Western Reserve University,US,United States
+180,University of Bath,UK,United Kingdom
+183,University of Pittsburgh,US,United States
+186,University of Minnesota Twin Cities,US,United States
+188,University of Florida,US,United States
+191,University of Liverpool,UK,United Kingdom
+199,Vanderbilt University,US,United States
+205,Dartmouth College,US,United States
+219,Arizona State University,US,United States
+221,University of Aberdeen,UK,United Kingdom
+229,University of Reading,UK,United Kingdom
+233,Queen's University Belfast,UK,United Kingdom
+236,"University of California, Irvine",US,United States
+239,University of Ottawa,CA,Canada
+240,University of Sussex,UK,United Kingdom
+242,University of Calgary,CA,Canada
+245,University of Notre Dame,US,United States
+246,Queen's University at Kingston,CA,Canada
+247,Yeshiva University,US,United States
+253,University of Massachusetts Amherst,US,United States
+255,University of Virginia,US,United States
+256,Loughborough University,UK,United Kingdom
+263,The University of Arizona,US,United States
+268,Rutgers University–New Brunswick,US,United States
+279,University of Leicester,UK,United Kingdom
+281,Georgetown University,US,United States
+282,Heriot-Watt University,UK,United Kingdom
+299,University of Miami,US,United States
+306,University of Surrey,UK,United Kingdom
+309,Dalhousie University,CA,Canada
+313,North Carolina State University,US,United States
+314,Tufts University,US,United States
+318,University of Colorado Boulder,US,United States
+319,University of Illinois at Chicago (UIC),US,United States
+326,University of Strathclyde,UK,United Kingdom
+329,Simon Fraser University,CA,Canada
+339,Indiana University Bloomington,US,United States
+342,University of East Anglia (UEA),UK,United Kingdom
+343,"Birkbeck, University of London",UK,United Kingdom
+351,University of Connecticut,US,United States
+354, University of Dundee,UK,United Kingdom
+356,"City, University of London",UK,United Kingdom
+360,University of Victoria (UVic),CA,Canada
+362,George Washington University,US,United States
+367,Virginia Polytechnic Institute and State University,US,United States
+374,University of Kansas,US,United States
+375,"University of California, Santa Cruz",US,United States
+376,University of Kent,UK,United Kingdom
+381,University of Hawaiʻi at Mānoa,US,United States
+389,Northeastern University,US,United States
+395,University of Utah,US,United States
+402,Colegio de México,MX,Mexico
+403,Royal Holloway University of London,UK,United Kingdom
+408,Colorado State University,US,United States
+412,Brunel University London,UK,United Kingdom
+417,"Stony Brook University, State University of New York",US,United States
+426,Swansea University,UK,United Kingdom
+427,University at Buffalo SUNY,US,United States
+429,"University of Colorado, Denver ",US,United States
+433,Université Laval,CA,Canada
+438,Oxford Brookes University,UK,United Kingdom
+440,Wake Forest University,US,United States
+446,Illinois Institute of Technology,US,United States
+447,SOAS University of London ,UK,United Kingdom
+448,Washington State University,US,United States
+453,"University of California, Riverside",US,United States
+456,York University,CA,Canada
+462,Rensselaer Polytechnic Institute,US,United States
+465,"Essex, University of",UK,United Kingdom
+469,University of Alaska Fairbanks,US,United States
+470,University of Iowa,US,United States
+472,Tulane University,US,United States
+474,University of Saskatchewan,CA,Canada
+483,Iowa State University,US,United States
+497,Brandeis University,US,United States
+503,Colorado School of Mines,US,United States
+506,Missouri University of Science and Technology,US,United States
+507,Swarthmore College,US,United States
+511,University of Stirling,UK,United Kingdom
+515,Florida State University,US,United States
+516,"Goldsmiths, University of London",UK,United Kingdom
+522,"University of Missouri, Columbia",US,United States
+527,The New School,US,United States
+531,University of Texas Dallas,US,United States
+547,Universidad Panamericana (UP),MX,Mexico
+554,Concordia University,CA,Canada
+565,Aston University,UK,United Kingdom
+567,Boston College,US,United States
+582,Université du Québec,CA,Canada
+589,University of Delaware,US,United States
+590,University of Massachusetts Boston,US,United States
+593,Lehigh University,US,United States
+597,University of Guelph,CA,Canada
+603,Bangor University,UK,United Kingdom
+604,Carleton University,CA,Canada
+614,"Kingston University, London",UK,United Kingdom
+625,Oregon State University,US,United States
+631,St. Louis University,US,United States
+634,The University of Georgia,US,United States
+635,"The University of Tennessee, Knoxville",US,United States
+636,Ulster University,UK,United Kingdom
+637,Universidad Anáhuac México,MX,Mexico
+649,University of South Florida,US,United States
+651,Wayne State University,US,United States
+652,Wesleyan University,US,United States
+653,Aberystwyth University,UK,United Kingdom
+665,Coventry University,UK,United Kingdom
+666,Drexel University,US,United States
+676,New Jersey Institute of Technology (NJIT),US,United States
+677,Northumbria University at Newcastle,UK,United Kingdom
+694,"University of Alabama, Birmingham",US,United States
+697,University of Huddersfield,UK,United Kingdom
+698,University of Hull,UK,United Kingdom
+699,University of Manitoba,CA,Canada
+700,University of Nebraska - Lincoln,US,United States
+701,University of Plymouth,UK,United Kingdom
+703,American University,US,United States
+708,City University of New York,US,United States
+723,Stevens Institute of Technology,US,United States
+731,Universidad Iberoamericana IBERO,MX,Mexico
+735,University of Bradford,UK,United Kingdom
+736,University of Cincinnati,US,United States
+738,University of Kentucky,US,United States
+740,University of New Brunswick,CA,Canada
+741,University of New Mexico,US,United States
+742,University of Oklahoma,US,United States
+743,University of Oregon,US,United States
+745,University of Portsmouth,UK,United Kingdom
+747,University of South Carolina,US,United States
+750,University of Vermont,US,United States
+751,University of Westminster,UK,United Kingdom
+754,Virginia Commonwealth University,US,United States
+760,Clark University,US,United States
+763,Florida International University,US,United States
+764,Howard University,US,United States
+765,Instituto Politécnico Nacional (IPN),MX,Mexico
+766,Instituto Tecnológico Autónomo de México (ITAM),MX,Mexico
+768,Keele University ,UK,United Kingdom
+772,Memorial University of Newfoundland,CA,Canada
+773,Michigan Technological University,US,United States
+774,Middlesex University,UK,United Kingdom
+782,Syracuse University,US,United States
+783,Temple University,US,United States
+785,Universidad Autónoma Chapingo,MX,Mexico
+796,Université de Sherbrooke,CA,Canada
+799,University of Denver,US,United States
+800,University of Houston,US,United States
+803,University of Windsor,CA,Canada
+815,Bournemouth University,UK,United Kingdom
+823,Clarkson University,US,United States
+824,Clemson University,US,United States
+825,College of William and Mary,US,United States
+829,De Montfort University,UK,United Kingdom
+833,Edinburgh Napier University,UK,United Kingdom
+835,Georgia State University,US,United States
+841,Indiana University–Purdue University Indianapolis,US,United States
+846,"ITESO, Universidad Jesuita de Guadalajara",MX,Mexico
+849,Kansas State University ,US,United States
+857,Liverpool John Moores University,UK,United Kingdom
+859,London Metropolitan University,UK,United Kingdom
+860,London South Bank University,UK,United Kingdom
+861,Louisiana State University,US,United States
+862,Loyola University Chicago,US,United States
+864,Manchester Metropolitan University (MMU),UK,United Kingdom
+877,Nottingham Trent University,UK,United Kingdom
+879,Oklahoma State University ,US,United States
+888,"Queen Margaret University , Edinburgh",UK,United Kingdom
+892,Robert Gordon University,UK,United Kingdom
+895,Rutgers University–Newark,US,United States
+896,Toronto Metropolitan University,CA,Canada
+903,Southern Methodist University,US,United States
+914,Universidad Autónoma del Estado de Hidalgo (UAEH),MX,Mexico
+915,Universidad Autónoma del Estado de México (UAEMex),MX,Mexico
+916,Universidad Autónoma Metropolitana (UAM),MX,Mexico
+917,Universidad de Guadalajara (UDG),MX,Mexico
+918,Universidad de las Américas Puebla (UDLAP),MX,Mexico
+950,University at Albany SUNY,US,United States
+956,University of Brighton,UK,United Kingdom
+958,University of Central Florida,US,United States
+959,University of Central Lancashire,UK,United Kingdom
+962,University of East London,UK,United Kingdom
+965,University of Greenwich,UK,United Kingdom
+966,University of Hartford,US,United States
+967,University of Hertfordshire,UK,United Kingdom
+970,University of Idaho,US,United States
+972,University of Lincoln,UK,United Kingdom
+974,University of Louisville,US,United States
+977,"University of Maryland, Baltimore County",US,United States
+979,University of Mississippi,US,United States
+983,University of New Hampshire,US,United States
+987,University of Salford,UK,United Kingdom
+991,University of the West of England,UK,United Kingdom
+992,University of Tulsa,US,United States
+995,University of Wyoming,US,United States
+1002,Worcester Polytechnic Institute,US,United States
+1020,Auburn University,US,United States
+1025,Baylor University,US,United States
+1027,Benemérita Universidad Autónoma de Puebla,MX,Mexico
+1030,Binghamton University SUNY,US,United States
+1032,Birmingham City University ,UK,United Kingdom
+1034,Brigham Young University,US,United States
+1035,Brock University,CA,Canada
+1036,Canterbury Christ Church University,UK,United Kingdom
+1041,CUNY The City College of New York,US,United States
+1046,Fordham University ,US,United States
+1049,George Mason University,US,United States
+1050,Glasgow Caledonian University,UK,United Kingdom
+1051,Harper Adams University,UK,United Kingdom
+1061,Kent State University,US,United States
+1067,Leeds Beckett University,UK,United Kingdom
+1068,Marquette University,US,United States
+1070,Mississippi State University,US,United States
+1083,Ohio University,US,United States
+1085,Rochester Institute of Technology (RIT),US,United States
+1087,San Diego State University,US,United States
+1089,Seattle University,US,United States
+1093,Sheffield Hallam University,UK,United Kingdom
+1102,Texas Tech University,US,United States
+1107,The University of Alabama,US,United States
+1109,The University of Northampton,UK,United Kingdom
+1115,Universidad Autónoma de Aguascalientes,MX,Mexico
+1116,Universidad Autónoma de Nuevo León,MX,Mexico
+1120,Universidad de Monterrey (UDEM),MX,Mexico
+1159,University of Arkansas Fayetteville ,US,United States
+1164,University of Derby,UK,United Kingdom
+1165,University of Hawaii at Hilo,US,United States
+1169,University of Missouri Saint Louis,US,United States
+1170,"University of Missouri, Kansas City",US,United States
+1171,University of Montana Missoula ,US,United States
+1175,University of North Texas,US,United States
+1182,University of Regina,CA,Canada
+1183,University of Rhode Island ,US,United States
+1186,University of San Diego,US,United States
+1187,University of San Francisco,US,United States
+1188,University of Texas at San Antonio,US,United States
+1189,University of the Pacific,US,United States
+1192,University of Toledo,US,United States
+1194,University of Wisconsin Milwaukee ,US,United States
+1195,University of Wolverhampton,UK,United Kingdom
+1196,Utah State University ,US,United States
+1197,Vancouver Island University,CA,Canada
+1201,West Virginia University,US,United States
+1202,Western Michigan University,US,United States
+1215,California Polytechnic State University,US,United States
+1216,California State University - Los Angeles,US,United States
+1218,Central Michigan University,US,United States
+1221,Cleveland State University,US,United States
+1225,Florida Atlantic University - Boca Raton,US,United States
+1234,Humboldt State University,US,United States
+1235,Illinois State University,US,United States
+1236,Indiana State University,US,United States
+1250,Miami University,US,United States
+1258,Northern Arizona University,US,United States
+1259,Nova Southeastern University,US,United States
+1267,Portland State University,US,United States
+1272,"Rutgers, The State University of New Jersey, Camden",US,United States
+1274,San Francisco State University,US,United States
+1292,The University of Texas at Arlington,US,United States
+1296,Universidad Autónoma de Baja California,MX,Mexico
+1298,Universidad Autónoma de Querétaro (UAQ),MX,Mexico
+1299,Universidad Autónoma de San Luis de Potosí,MX,Mexico
+1300,Universidad Autonoma de Yucatan,MX,Mexico
+1301,Universidad Autónoma del Estado de Morelos (UAEM),MX,Mexico
+1312,Universidad de Guanajuato,MX,Mexico
+1324,Universidad de Sonora,MX,Mexico
+1330,Universidad del Valle de Mexico (UVM),MX,Mexico
+1332,Universidad La Salle (ULSA),MX,Mexico
+1342,Universidad Popular Autónoma del Estado de Puebla (UPAEP),MX,Mexico
+1347,Universidad Veracruzana,MX,Mexico
+1375,University of Central Oklahoma,US,United States
+1382,University of Memphis,US,United States
+1384,University of North Carolina at Charlotte,US,United States
+1385,University of North Carolina at Greensboro,US,United States
+1386,University of Northern British Columbia,CA,Canada
+1391,University of South Alabama (USA),US,United States
+1393,University of Texas El Paso ,US,United States
+1398,Western Washington University,US,United States
+1404,California State University Long Beach,US,United States
+1411,Universidad Autónoma de Guadalajara (UAG),MX,Mexico
+1417,Universidad Michoacana de San Nicolás de Hidalgo,MX,Mexico

@@ -1,0 +1,116 @@
+
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid grey;
+  padding: 10px;
+}
+
+.center-txt {
+  padding-text: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
+
+.container {
+  color: #333;
+}
+
+.sidebar {
+  max-width: 20rem;
+}
+
+.ranking-title {
+  font-size: 2rem;
+  font-weight: normal;
+  margin: 0 0 0.5rem 0;
+}
+
+.ranking-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ranking-item {
+  border-bottom: 2px solid #ededed;
+}
+
+.ranking-item:first-child {
+  border-top: 1px solid #ededed;
+}
+
+.ranking-card {
+  color: inherit;
+  display: flex;
+  padding: 2rem 2rem;
+  text-decoration: none;
+}
+
+.ranking-image {
+  margin: 0 1rem 0 0;
+  position: relative;
+  padding-right: 0.5rem;
+}
+
+.ranking-thumbnail {
+  width: 6rem;
+}
+
+.ranking-badge {
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 9999px;
+  color: #888;
+  display: flex;
+  font-size: 0.75rem;
+  height: 1.5rem;
+  justify-content: center;
+  left: -0.5rem;
+  position: absolute;
+  top: -0.5rem;
+  width: 1.5rem;
+}
+
+/* 1位 */
+.ranking-item:nth-child(1) .ranking-badge {
+  background-color: #d9b340;
+  border: 1px solid #d9b340;
+  color: #fff;
+}
+
+/* 2位 */
+.ranking-item:nth-child(2) .ranking-badge {
+  background-color: #6f7b83;
+  border: 1px solid #6f7b83;
+  color: #fff;
+}
+
+/* 3位 */
+.ranking-item:nth-child(3) .ranking-badge {
+  background-color: #a15326;
+  border: 1px solid #a15326;
+  color: #fff;
+}
+
+.ranking-shop-name {
+  color: #888;
+  font-size: 0.75rem;
+  padding-left: 0.25rem;
+}
+
+.ranking-description {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  margin: 0.5rem 0 0 0;
+}
+
+.ranking-card:hover .ranking-thumbnail {
+  opacity: 0.75;
+}
+
+.ranking-card:hover .ranking-description {
+  text-decoration: underline;
+}
