@@ -6,7 +6,7 @@
 Preview:
 
 
-This project is a fully responsive Quiz App built using Python's Flask for the backend and custom HTML CSS for the frontend.
+This project is a fully responsive GRE WebApp built using Python's Flask for the backend and custom HTML CSS for the frontend.
 
 Features:
 - Login and Register to give a test
