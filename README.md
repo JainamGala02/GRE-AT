@@ -33,9 +33,10 @@ $ virtualenv ENV && source ENV/bin/activate
 $ pip install -r requirements.txt
 
 # export flask app and run
-$ set FLASK_APP=main.py
+$ set FLASK_APP=app.py
 $ flask run
 
+Demo Video for EC2 Deployment - https://drive.google.com/file/d/1aBGA8_4cHogcHx2HgkIAJTHlN1eg18fs/view?usp=share_link
 
 
 
